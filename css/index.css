@@ -1,0 +1,69 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#titulo-principal { 
+font-size: 50px;
+}
+
+.content-image {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/que-es-wallpaper1.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.content {
+    text-align: center;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+
+#link-button {
+    text-decoration:none;
+    font-weight: 600;
+    font-size: 20px;
+    color:white;
+    margin: 0px 100px;
+    padding-top:15px;
+    padding-bottom:15px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color: transparent;
+    border-width: 3px;
+    border-style: solid;
+    border-color: white;
+    
+}
+
+/* Nombrando al tag o etiqueta haces referencia a todas las que esten contenidas en el HTML
+h1{
+    font-size:100px;
+}
+
+/* Las clases se crean con un . antes  .miClase 
+.miClase{
+    font-size:100px;
+}
+
+
+ Con # hacemos referencia al identificador UNICO dentro del HTML 
+#titulo-principal{
+    color:aquamarine;
+} */
+
+/*C&$znc#6Dyyj)g@Rl@Gh
+contraseña del hosting
+
+files.000webhost.com
+bellanzaromina
+*/
